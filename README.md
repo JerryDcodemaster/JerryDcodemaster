@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) # My name is Joseph Jeremiah
 ## Web developer💻
-** ### I'm currently learning REACT, also working on projects that you would definitely love.### **
+### **I'm currently learning REACT, also working on projects that you would definitely love.** ###
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [sparklekhay.netlify.app](http://sparklekhay.netlify.app)
 *   ✉️  You can contact me at [ekeminijoseph83@gmail.com](mailto:ekeminijoseph83@gmail.com)
