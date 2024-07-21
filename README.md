@@ -1,12 +1,12 @@
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### This dude is a Front-end developer💻 who loves learning and trying out new things.
+#### This dude is a Front-end developer💻 who loves learning and trying out new things.
 
 *   🌱 I often hang out with React|Laravel|WordPress 
 *   🤝 The hunger for Open Source Projects is massive...🔥🔥🔥
 *   📚 I'm currently learning a new framework...
 *   💬 I love Tech chats/talks...❤
 *   ⚡ Fun Facts: I'm a Drummer🥁.
-*   📫 How to reach me: [https://sparklekhay.netlify.app/](https://ay-dev.vercel.app/).
+*   📫 How to reach me: [https://ay-dev.vercel.app/](https://ay-dev.vercel.app/).
 
 ### Skills
 
