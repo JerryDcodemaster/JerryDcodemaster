@@ -2,7 +2,7 @@
 ## I'm a Web developer 💻
 
 *   🌍 I'm based in Nigeria.
-*   🖥️ See my portfolio at [https://sparklekhay.netlify.app/](https://sparklekhay.netlify.app/).
+*   🖥️ See my portfolio at [https://sparklekhay.netlify.app/](https://ay-dev.vercel.app/).
 *   ✉️ How to reach me: via Email [ekeminijoseph83@gmail.com](mailto:ekeminijoseph83@gmail.com).
 *   🧠 Suprise: I'm currently learning a new framework and hope to build new technologies that will help the next generation of developers.
 *   🤝 Interesting: I'm open to openSourceProjects.
