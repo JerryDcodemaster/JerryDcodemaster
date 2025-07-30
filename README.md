@@ -6,7 +6,6 @@
 *   📚 I'm currently learning a new framework...
 *   💬 I love Tech chats/talks...❤
 *   ⚡ Fun Facts: I'm a Drummer🥁.
-*   📫 How to reach me: []().
 
 ### Skills
 
